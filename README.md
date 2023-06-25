@@ -1,2 +1,2 @@
-# Frist-project-by-python
+# Frist project by python
 ## Simple Calculator 
